@@ -1,0 +1,34 @@
+---
+title: "Chattanooga Attractions and Food"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Things to do
+
+- Ruby Falls <https://www.rubyfalls.com/>
+- Rock City <https://www.seerockcity.com/>
+- View at the top of the incline railway (free)
+- Tennessee Aquarium <https://tnaqua.org/>
+- Creative Discovery Museum <https://www.cdmfun.org/>
+- Walnut street bridge <https://www.walnutstreetbridge.com/>
+  - Coolidge Park
+  - Renaissance Park
+- Nooga lights at the choo choo <https://noogalights.com/>
+- Zoo at night (asian lantern festival going on currently) <https://www.chattzoo.org/events/alf-2024-2025>
+- International Towing Museum <https://towingmuseum.com/>
+
+## Places to eat
+
+- Coffee:
+  - Frothy Monkey (attached to choo choo) <https://frothymonkey.com/locations/southside-chattanooga-tn/>
+  - Rembrandts Coffee House <https://bluffviewartdistrictchattanooga.com/rembrandtscoffeehouse>
+  
+- Food:
+  - Hello Monty <https://www.hellomontyonmain.com/>
+  - Tupelo Honey Cafe <https://tupelohoneycafe.com/restaurant/chattanooga/>
+  - State of Confusion <https://www.soconfusion.com/>
+  - Feed <https://www.feedtableandtavern.com/>
